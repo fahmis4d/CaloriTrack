@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150059466353",
+    "project_id": "caloritrack-f2be3",
+    "storage_bucket": "caloritrack-f2be3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150059466353:android:02701d0c090a915afe25d0",
+        "android_client_info": {
+          "package_name": "com.dicoding.caloritrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEEIHe4Q9bQglWB4y4LXTm2kuiFXOBJX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
