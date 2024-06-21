@@ -20,7 +20,7 @@ class NewsViewModel : ViewModel() {
 
     private fun fetchNews() {
         val service = ApiConfig.getApiService()
-        val call = service.getNews("calorie", "health", "en", "a89aed1005d54876abb8a45b5ca5163a")
+        val call = service.getNews("calorie", "health", "en", "YOUR_API_KEY")
 
         call.enqueue(object : Callback<NewsResponse> {
             override fun onResponse(call: Call<NewsResponse>, response: Response<NewsResponse>) {
